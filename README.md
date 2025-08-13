@@ -13,8 +13,8 @@ El programa permite:
 ---
 
 ## Tecnologías
-- **Lenguaje:** Java (8 o superior)
-- **Paradigma:** Programación Orientada a Objetos
+- **Lenguaje:** 
+- **Paradigma:** 
 - **Manejo de archivos:** `BufferedReader` y `BufferedWriter`
 - **Manejo de excepciones personalizadas**
 
@@ -31,6 +31,5 @@ El programa permite:
 
 ---
 
-## Ejecución del Proyecto
 
 
