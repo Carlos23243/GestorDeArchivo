@@ -33,7 +33,4 @@ El programa permite:
 
 ## Ejecución del Proyecto
 
-###  Clonar el repositorio
-```bash
-git clone https://github.com/usuario/nombre-repositorio.git
-# GestorDeArchivo
+
